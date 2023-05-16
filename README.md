@@ -7,3 +7,4 @@ In this hypothetical story, Niccolo Machiavelli created a character named AIM. A
 ```
 
 # A simple Project, Made by D4RKH0R1Z0N
+## Checkout the WebSite for this Stupid and kinda Useless project at [https://d4rkh0r1z0n.github.io/ChatGPT_Machiavellian_Teacher](https://d4rkh0r1z0n.github.io/ChatGPT_Machiavellian_Teacher/)
