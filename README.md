@@ -1,5 +1,7 @@
 # Power University
 
+Consider reading my book, it's more helpful (the book is about Machiavellianism, Power and completely on Manipulation), [https://github.com/D4RKH0R1Z0N/The_Manipulators_Cookbook](https://github.com/D4RKH0R1Z0N/The_Manipulators_Cookbook)
+
 ## Power University
 
 ```
